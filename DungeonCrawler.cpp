@@ -7,10 +7,10 @@
 // ============================================================
 
 #include <iostream>
-#include <string>
 #include <cstdlib>
 #include <ctime>
-#include <fstream>    // for file I/O  (COMP1602 topic)
+#include <fstream>
+
 using namespace std;
 
 // ============================================================
